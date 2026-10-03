@@ -1,11 +1,12 @@
-# Synthetic Pattern Recognition System for Swing Setups by CODE__PEARL
+# Synthetic Pattern Recognition System for Swing Setups based on Oliver Kell's public materials 
+### by CODE__PEARL
 
 ![Overview](_overview.jpg)
 
 ## What This Is
 
 This repository contains a synthetic pattern recognition system I structured
-during my research into swing trading setups. The system is built from
+during my research into swing trading setups that were used by *Oliver Kell the 2020 U.S. Investing Champion* . The system is built from
 interview material, trading education content, and my own synthesis of the
 concepts into a formalized recognition framework.
 
@@ -46,14 +47,13 @@ respective creators:
 4. **Validation** — Compared detected patterns against known swing setup
    archetypes.
 
-## Structure
+ ## Structure
 .
 ├── _overview.jpg # System overview diagram
 ├── src/ # Recognition logic
 ├── data/ # Synthetic pattern datasets
 └── README.md
-
-text
+'
 
 ## Status
 

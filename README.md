@@ -6,7 +6,7 @@
 ## What This Is
 
 This repository contains a synthetic pattern recognition system I structured
-during my research into swing trading setups that were used by **Oliver Kell the 2020 U.S. Investing Champion** . The system is built from
+during my research into swing trading setups that were used by ***Oliver Kell the 2020 U.S. Investing Champion*** . The system is built from
 interview material, trading education content, and my own synthesis of the
 concepts into a formalized recognition framework.
 
@@ -25,9 +25,9 @@ respective creators:
 
 | Source | Link |
 |---|---|
-| Oliver Kell — The 10 Principles of Trading (TraderLion) | https://www.youtube.com/watch?v=ElocJ-b_NTs |
+| Video 1 | https://www.youtube.com/watch?v=ElocJ-b_NTs |
 | Video 2 | https://www.youtube.com/watch?v=m8F3KkBDtC0 |
-| Video 3 (Playlist: PLF-oajkv9d9d3f9NxAzKIZfLO53tgolFl, Index 18) | https://www.youtube.com/watch?v=8gu1MycjaFU |
+| Video 3 | https://www.youtube.com/watch?v=8gu1MycjaFU |
 | Video 4 | https://www.youtube.com/watch?v=eME0S4lwEz0 |
 | Video 5 | https://www.youtube.com/watch?v=4HA2hBrpMRU |
 | Video 6 | https://www.youtube.com/watch?v=ltXlF8Z0WFg |
